@@ -1,0 +1,178 @@
+/* screen - news-1 */
+
+.news-1 {
+  background-color: var(--granite-gray);
+  height: 2688px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.news-1 .a-game-develope-wsuit-represent-C61RwL {
+  background-color: transparent;
+  color: #010000;
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+  height: 1487px;
+  left: 982px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  top: 712px;
+  width: 692px;
+}
+.news-1 .bathroom-C61RwL {
+  background-color: transparent;
+  height: 57px;
+  left: 270px;
+  position: absolute;
+  top: 443px;
+  width: 1238px;
+}
+.news-1 .bathroom-remodel-blog-1-58LMxS {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 116px;
+  position: absolute;
+  text-align: center;
+  top: -33px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+.news-1 .blog-clkCcL {
+  background-color: transparent;
+  bottom: calc(45.45% - 19px);
+  cursor: pointer;
+  height: 41px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  right: calc(23.23% - 17px);
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+.news-1 .by-liam-wiseman-may-7-2021-C61RwL {
+  background-color: transparent;
+  height: auto;
+  left: 660px;
+  letter-spacing: 0.00px;
+  line-height: 116px;
+  position: absolute;
+  text-align: center;
+  top: 350px;
+  white-space: nowrap;
+  width: 459px;
+}
+.news-1 .home-clkCcL {
+  background-color: transparent;
+  bottom: calc(48.39% - 23px);
+  cursor: pointer;
+  height: 47px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(28.60% - 31px);
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+.news-1 .line-2-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 292px;
+  object-fit: cover;
+  position: absolute;
+  top: 2225px;
+  width: 1380px;
+}
+.news-1 .logo-clkCcL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 100%;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+.news-1 .logo-steam-C61RwL {
+  background-color: transparent;
+  border-radius: 57px;
+  height: 1071px;
+  left: 84px;
+  object-fit: cover;
+  position: absolute;
+  top: 712px;
+  width: 804px;
+}
+.news-1 .main-bar-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+.news-1 .news-clkCcL {
+  background-color: transparent;
+  bottom: calc(45.45% - 19px);
+  cursor: pointer;
+  height: 41px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  right: 188px;
+  text-align: left;
+  white-space: nowrap;
+  width: 90px;
+}
+.news-1 .path-1-C61RwL {
+  background-color: transparent;
+  height: 0px;
+  left: 1620px;
+  object-fit: cover;
+  position: absolute;
+  top: 1136px;
+  width: 0px;
+}
+.news-1 .path-9-clkCcL {
+  background-color: transparent;
+  height: calc(100.00% - 28px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 100%;
+}
+.news-1 .review-clkCcL {
+  background-color: transparent;
+  bottom: calc(45.00% - 18px);
+  cursor: pointer;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  right: calc(16.36% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 111px;
+}
+.news-1 .shop-clkCcL {
+  background-color: transparent;
+  bottom: calc(47.37% - 21px);
+  cursor: pointer;
+  height: 45px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: 77px;
+  text-align: left;
+  white-space: nowrap;
+  width: 90px;
+}
