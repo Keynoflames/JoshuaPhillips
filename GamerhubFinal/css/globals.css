@@ -1,0 +1,89 @@
+@import url("https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css");
+@font-face {
+  font-family: "PerpetuaTitling MT-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/609954edda89c9684edb2f4c/fonts/montserrat-bold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "ProximaNova-Thin";
+  font-style: normal;
+  font-weight: 100;
+  src: url("https://anima-uploads.s3.amazonaws.com/5cbf6be6a0bd2d0009cd92f0/ProximaNova-Thin.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "ProximaNova-Semibold";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5b92aac3e833790009188215/.173.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "LucidaSans Unicode-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5d85c6afa4df1e13f530fd3c/l_10646.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "ProximaNova-Light";
+  font-style: normal;
+  font-weight: 300;
+  src: url("https://anima-uploads.s3.amazonaws.com/5b92aac3e833790009188215/.5474.otf") format("opentype");
+}
+
+@font-face {
+  font-family: "TimesNew Roman-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/projects/600201395e38331e891a9630/fonts/times-new-roman-bold.ttf")
+    format("truetype");
+}
+
+@font-face {
+  font-family: "SegoeUI-Regular";
+  font-style: normal;
+  font-weight: 400;
+  src: url("https://anima-uploads.s3.amazonaws.com/5b1e8d8e336c4b0009507857/segoeui.ttf") format("truetype");
+}
+
+* {
+  box-sizing: border-box;
+}
+.container-center-horizontal {
+  pointer-events: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+.container-center-horizontal > * {
+  pointer-events: auto;
+  flex-shrink: 0;
+}
+.screen * {
+  box-sizing: border-box;
+  -webkit-font-smoothing: antialiased;
+}
+.screen a {
+  text-decoration: none;
+  display: contents;
+}
+.screen div {
+  -webkit-text-size-adjust: none;
+}
+.screen textarea:focus,
+.screen input:focus {
+  outline: none;
+}
+.smart-layers-pointers,
+.smart-layers-pointers * {
+  pointer-events: auto;
+  visibility: visible;
+}
+input:focus {
+  outline: none;
+}

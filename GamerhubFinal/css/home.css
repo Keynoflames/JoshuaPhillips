@@ -1,0 +1,772 @@
+/* screen - home */
+
+.home {
+  background-color: var(--granite-gray);
+  height: 6152px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+.home .animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+opacity: 0;filter: blur(10px);
+}
+.home .background-C61RwL {
+  background-color: transparent;
+  height: 744px;
+  left: 0px;
+  position: absolute;
+  top: 5277px;
+  width: 1920px;
+}
+.home .blog-1-C61RwL {
+  background-color: transparent;
+  height: 512px;
+  left: 489px;
+  position: absolute;
+  top: 3312px;
+  width: 318px;
+}
+.home .blog-2-C61RwL {
+  background-color: transparent;
+  height: 512px;
+  left: 1109px;
+  position: absolute;
+  top: 3312px;
+  width: 318px;
+}
+.home .blog-clkCcL {
+  background-color: transparent;
+  bottom: calc(45.45% - 19px);
+  cursor: pointer;
+  height: 41px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  right: calc(23.23% - 17px);
+  text-align: left;
+  white-space: nowrap;
+  width: 73px;
+}
+.home .contact-info-8x0eH3 {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .email-8x0eH3 {
+  background-color: transparent;
+  border: 0;
+  color: var(--black-3);
+  font-family: var(--font-family-proximanova-thin);
+  font-size: var(--font-size-xxxxxxl);
+  font-style: normal;
+  font-weight: 100;
+  height: 47px;
+  left: 26px;
+  letter-spacing: 0.00px;
+  line-height: 54px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: calc(22.73% - 11px);
+  white-space: nowrap;
+  width: calc(100.00% - 109px);
+}
+.home .email-8x0eH3::placeholder {
+  color: #00000099;
+}
+.home .final-fantasy-7-months-minimum-uOMREk {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: 0px;
+  height: 39px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+.home .game-store-1-C61RwL {
+  background-color: transparent;
+  height: 420px;
+  left: 275px;
+  position: absolute;
+  top: 1626px;
+  width: 318px;
+}
+.home .game-store-2-C61RwL {
+  background-color: transparent;
+  height: 425px;
+  left: 787px;
+  position: absolute;
+  top: 1645px;
+  width: 348px;
+}
+.home .game-storeis-3-C61RwL {
+  background-color: transparent;
+  height: 512px;
+  left: 1277px;
+  position: absolute;
+  top: 1645px;
+  width: 346px;
+}
+.home .game-storie-1-8WWRxF {
+  background-color: transparent;
+  height: calc(100.00% - 148px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .game-storie-1-HeHGjk {
+  background-color: transparent;
+  height: 364px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .game-storie-1-IwXZ0x {
+  background-color: transparent;
+  height: calc(100.00% - 148px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .game-storie-1-X86xSH {
+  background-color: transparent;
+  height: calc(100.00% - 148px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .game-storie-1-dX1O0s {
+  background-color: transparent;
+  height: calc(100.00% - 56px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .game-storie-1-kOe5fz {
+  background-color: transparent;
+  height: 364px;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .game-storie-1-m1Hhhc {
+  background-color: transparent;
+  height: 364px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .game-storie-2-uOMREk {
+  background-color: transparent;
+  height: calc(100.00% - 61px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .group-21-C61RwL {
+  background-color: transparent;
+  height: 69px;
+  left: 653px;
+  position: absolute;
+  top: 5632px;
+  width: 614px;
+}
+.home .group-30-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 859px;
+  pointer-events: auto;
+  position: absolute;
+  top: 3798px;
+  transition: all 0.2s ease;
+  width: 202px;
+}
+.home .group-30-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.home .group-31-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 53px;
+  left: 859px;
+  pointer-events: auto;
+  position: absolute;
+  top: 5131px;
+  transition: all 0.2s ease;
+  width: 202px;
+}
+.home .group-31-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.home .home-clkCcL {
+  background-color: transparent;
+  bottom: calc(48.39% - 23px);
+  height: 47px;
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  right: calc(28.60% - 31px);
+  text-align: left;
+  white-space: nowrap;
+  width: 109px;
+}
+.home .jeremy-thomas-e-nm-dg-unsplash-C61RwL {
+  background-color: transparent;
+  height: 744px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 5277px;
+  width: 1920px;
+}
+.home .jeremy-thomas-e-nm-dg-unsplash-tUIarg {
+  background-color: transparent;
+  height: calc(100.00% - 16px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .latest-reviews-C61RwL {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  height: 37px;
+  left: 1444px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 770px;
+  white-space: nowrap;
+  width: 248px;
+}
+.home .leatest-review-C61RwL {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  height: auto;
+  left: 616px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  top: 4392px;
+  white-space: nowrap;
+  width: 691px;
+}
+.home .line-4-C61RwL {
+  background-color: transparent;
+  height: 1px;
+  left: 738px;
+  object-fit: cover;
+  position: absolute;
+  top: 5600px;
+  width: 466px;
+}
+.home .logo-clkCcL {
+  background-color: transparent;
+  height: 100%;
+  left: 102px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 140px;
+}
+.home .main-bar-C61RwL {
+  background-color: transparent;
+  height: 140px;
+  left: 0px;
+  position: absolute;
+  top: -14px;
+  width: 1920px;
+}
+.home .main-picture-C61RwL {
+  background-color: transparent;
+  height: 760px;
+  left: 0px;
+  position: absolute;
+  top: 107px;
+  width: 1920px;
+}
+.home .maxresdefault-C61RwL {
+  background-color: transparent;
+  display: block;
+  height: 679px;
+  left: 286px;
+  overflow: hidden;
+  position: absolute;
+  top: 2397px;
+  width: 1405px;
+opacity: 0;filter: blur(10px);
+}
+.home .my-hero-academi-t-anime-of-2021-8WWRxF {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: 1px;
+  height: 150px;
+  left: 4px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 6px);
+}
+.home .news-clkCcL {
+  background-color: transparent;
+  bottom: calc(45.45% - 19px);
+  cursor: pointer;
+  height: 41px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  right: 188px;
+  text-align: left;
+  white-space: nowrap;
+  width: 90px;
+}
+.home .no-path-copy-2-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 435px;
+  left: 183px;
+  object-fit: cover;
+  position: absolute;
+  top: 3995px;
+  width: 1554px;
+}
+.home .no-path-copy-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 426px;
+  left: 109px;
+  object-fit: cover;
+  position: absolute;
+  top: 1085px;
+  width: 1703px;
+}
+.home .outriders-kOe5fz {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: 117px;
+  height: 150px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 6px);
+}
+.home .path-9-clkCcL {
+  background-color: transparent;
+  height: calc(100.00% - 28px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 14px;
+  width: 100%;
+}
+.home .recent-blog-post-C61RwL {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 826px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 770px;
+  white-space: nowrap;
+  width: 248px;
+}
+.home .recent-blogs-C61RwL {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  height: auto;
+  left: 616px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  top: 3106px;
+  white-space: nowrap;
+  width: 691px;
+}
+.home .rectangle-12-C61RwL {
+  background-color: var(--white);
+  height: 777px;
+  left: 0px;
+  position: absolute;
+  top: 79px;
+  width: 1920px;
+}
+.home .rectangle-13-C61RwL {
+  background-color: #807b7b;
+  height: 98px;
+  left: 0px;
+  position: absolute;
+  top: 857px;
+  width: 1920px;
+}
+.home .rectangle-14-C61RwL {
+  background-color: var(--white);
+  border-radius: 27px;
+  cursor: pointer;
+  height: 53px;
+  left: 827px;
+  pointer-events: auto;
+  position: absolute;
+  top: 2243px;
+  transition: all 0.2s ease;
+  width: 202px;
+}
+.home .rectangle-14-C61RwL:hover {
+
+transform: scale(1.1);
+}
+.home .rectangle-18-C61RwL {
+  background-color: #294075;
+  height: 130px;
+  left: 0px;
+  position: absolute;
+  top: 6022px;
+  width: 1921px;
+}
+.home .rectangle-20-I5cRPp {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-20-xxkKyh {
+  background-color: var(--white);
+  border-radius: 27px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .rectangle-6-tl0iaB {
+  background-color: var(--white);
+  border-radius: 32px;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .resident-evil-village-m1Hhhc {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: 117px;
+  height: 150px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 6px);
+}
+.home .review-1-C61RwL {
+  background-color: transparent;
+  height: 566px;
+  left: 275px;
+  position: absolute;
+  top: 4592px;
+  width: 318px;
+}
+.home .review-1-VMr6Om {
+  background-color: transparent;
+  height: 556px;
+  left: 778px;
+  position: absolute;
+  top: 4602px;
+  width: 318px;
+}
+.home .review-1-mzXdH9 {
+  background-color: transparent;
+  height: 566px;
+  left: 1281px;
+  position: absolute;
+  top: 4592px;
+  width: 318px;
+}
+.home .review-clkCcL {
+  background-color: transparent;
+  bottom: calc(45.00% - 18px);
+  cursor: pointer;
+  height: 40px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  right: calc(16.36% - 18px);
+  text-align: left;
+  white-space: nowrap;
+  width: 111px;
+}
+.home .shade-Hqr9xU {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+.home .shade-tUIarg {
+  background-color: transparent;
+  height: calc(100.00% - 16px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 16px;
+  width: 100%;
+}
+.home .shop-clkCcL {
+  background-color: transparent;
+  bottom: calc(47.37% - 21px);
+  cursor: pointer;
+  height: 45px;
+  letter-spacing: 0.00px;
+  line-height: 38px;
+  position: absolute;
+  right: 77px;
+  text-align: left;
+  white-space: nowrap;
+  width: 90px;
+}
+.home .stay-in-touch-C61RwL {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  height: auto;
+  left: 742px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  top: 5432px;
+  white-space: nowrap;
+  width: 439px;
+}
+.home .submit-tl0iaB {
+  background-color: transparent;
+  color: var(--black-3);
+  font-family: var(--font-family-proximanova-thin);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 100;
+  height: 24px;
+  left: 2px;
+  letter-spacing: 0.00px;
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: calc(7.90% - 2px);
+  white-space: nowrap;
+  width: calc(100.00% - 3px);
+}
+.home .submite-button-C61RwL {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 844px;
+  position: absolute;
+  top: 5733px;
+  width: 207px;
+}
+.home .the-yakuza-seri-s-going-forward-X86xSH {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: -2px;
+  height: 150px;
+  left: 18px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 34px);
+}
+.home .top-stories-C61RwL {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  cursor: pointer;
+  height: 37px;
+  left: 242px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: 770px;
+  white-space: nowrap;
+  width: 248px;
+}
+.home .top-stories-VMr6Om {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  height: auto;
+  left: 616px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  top: 1470px;
+  white-space: nowrap;
+  width: 691px;
+}
+.home .valve-facing-ne-gital-dominance-dX1O0s {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: 0px;
+  height: 53px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% - 6px);
+}
+.home .view-more-C61RwL {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 870px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  top: 2138px;
+  white-space: nowrap;
+  width: 126px;
+}
+.home .view-more-I5cRPp {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: calc(522.00% - 146px);
+  height: 28px;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 76px);
+}
+.home .view-more-xxkKyh {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: calc(522.00% - 146px);
+  height: 28px;
+  left: 40px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 76px);
+}
+.home .we-bring-the-be-mes-information-tUIarg {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  color: #fbf8f8;
+  font-family: var(--font-family-pristina-regular);
+  font-size: var(--font-size-xxxxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 67px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  right: calc(49.93% - 420px);
+  text-align: center;
+  top: calc(43.04% - 29px);
+  white-space: nowrap;
+  width: 841px;
+}
+.home .welcom-tUIarg {
+  background-color: transparent;
+  color: var(--desert-storm);
+  font-family: var(--font-family-pristina-regular);
+  font-size: var(--font-size-xxxxxxxxxl);
+  font-style: normal;
+  font-weight: 400;
+  height: 133px;
+  left: calc(48.80% - 299px);
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  top: calc(30.60% - 41px);
+  white-space: nowrap;
+  width: 613px;
+}
+.home .why-should-you-play-smite-IwXZ0x {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: 117px;
+  height: 150px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 6px);
+}
+.home .yasuke-HeHGjk {
+  -webkit-text-stroke: 1px var(--cod-gray);
+  background-color: transparent;
+  bottom: 117px;
+  height: 150px;
+  left: 1px;
+  letter-spacing: 0.00px;
+  line-height: 258px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 6px);
+}
+@keyframes animate-enter-frames {
+
+from{opacity: 0;filter: blur(10px);}
+to{opacity: 1;filter: none;}
+}

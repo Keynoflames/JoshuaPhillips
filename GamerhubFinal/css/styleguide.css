@@ -1,0 +1,167 @@
+:root {
+  --black: #040404;
+  --black-2: #060000;
+  --black-3: #000000;
+  --black-4: #030101;
+  --black-5: #060404;
+  --black-6: #010101;
+  --black-7: #040000;
+  --cod-gray: #0a0a0a;
+  --desert-storm: #f9f6f6;
+  --diesel: #0a0000;
+  --dove-gray: #707070;
+  --granite-gray: #686565;
+  --white: #ffffff;
+
+  --font-size-l: 25px;
+  --font-size-m: 20px;
+  --font-size-s: 16px;
+  --font-size-xl: 30px;
+  --font-size-xxl: 32px;
+  --font-size-xxxl: 34px;
+  --font-size-xxxxl: 35px;
+  --font-size-xxxxxl: 38px;
+  --font-size-xxxxxxl: 40px;
+  --font-size-xxxxxxxl: 50px;
+  --font-size-xxxxxxxxl: 80px;
+  --font-size-xxxxxxxxxl: 100px;
+  --font-size-xxxxxxxxxxl: 125px;
+  --font-size-xxxxxxxxxxxl: 130px;
+
+  --font-family-lucidasans_unicode-regular: "LucidaSans Unicode-Regular", Helvetica;
+  --font-family-perpetuatitling_mt-light: "PerpetuaTitling MT-Light", Helvetica;
+  --font-family-pristina-regular: "Pristina-Regular", Helvetica;
+  --font-family-proximanova-light: "ProximaNova-Light", Helvetica;
+  --font-family-proximanova-semibold: "ProximaNova-Semibold", Helvetica;
+  --font-family-proximanova-thin: "ProximaNova-Thin", Helvetica;
+  --font-family-segoeui-regular: "SegoeUI-Regular", Helvetica;
+  --font-family-times_new_roman: "Times New Roman", Helvetica;
+  --font-family-timesnew_roman-regular: "TimesNew Roman-Regular", Helvetica;
+}
+.lucidasansunicode-regular-normal-black-25px {
+  color: var(--black);
+  font-family: var(--font-family-lucidasans_unicode-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.timesnewroman-regular-normal-diesel-20px {
+  color: var(--diesel);
+  font-family: var(--font-family-timesnew_roman-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.proximanova-normal-black-38px {
+  color: var(--black-4);
+  font-family: var(--font-family-proximanova-semibold);
+  font-size: var(--font-size-xxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.proximanova-normal-black-35px {
+  color: var(--black-2);
+  font-family: var(--font-family-proximanova-semibold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.proximanova-normal-black-34px {
+  color: var(--black-5);
+  font-family: var(--font-family-proximanova-semibold);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.proximanova-normal-black-35px-2 {
+  color: var(--black-6);
+  font-family: var(--font-family-proximanova-semibold);
+  font-size: var(--font-size-xxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.proximanova-normal-black-40px {
+  color: var(--black);
+  font-family: var(--font-family-proximanova-semibold);
+  font-size: var(--font-size-xxxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.timesnewroman-normal-diesel-20px {
+  color: var(--diesel);
+  font-family: var(--font-family-times_new_roman);
+  font-size: var(--font-size-m);
+}
+.timesnewroman-regular-normal-diesel-80px {
+  color: var(--diesel);
+  font-family: var(--font-family-timesnew_roman-regular);
+  font-size: var(--font-size-xxxxxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.pristina-regular-normal-diesel-20px {
+  color: var(--diesel);
+  font-family: var(--font-family-pristina-regular);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
+.proximanova-light-black-25px {
+  color: var(--black-3);
+  font-family: var(--font-family-proximanova-light);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 300;
+}
+.pristina-regular-normal-diesel-50px {
+  color: var(--diesel);
+  font-family: var(--font-family-pristina-regular);
+  font-size: var(--font-size-xxxxxxxl);
+  font-style: normal;
+  font-weight: 400;
+}
+.timesnewroman-regular-normal-diesel-16px {
+  color: var(--diesel);
+  font-family: var(--font-family-timesnew_roman-regular);
+  font-size: var(--font-size-s);
+  font-style: normal;
+  font-weight: 400;
+}
+.proximanova-light-black-50px {
+  color: var(--black-3);
+  font-family: var(--font-family-proximanova-light);
+  font-size: var(--font-size-xxxxxxxl);
+  font-style: normal;
+  font-weight: 300;
+}
+.segoeui-regular-normal-black-25px {
+  color: var(--black-2);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 400;
+}
+.pristina-regular-normal-diesel-30px {
+  color: var(--diesel);
+  font-family: var(--font-family-pristina-regular);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 400;
+}
+.perpetuatitlingmt-light-black-20px {
+  color: var(--black);
+  font-family: var(--font-family-perpetuatitling_mt-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+.proximanova-light-black-20px {
+  color: var(--black-3);
+  font-family: var(--font-family-proximanova-light);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 300;
+}
+.border-1px-dove-gray {
+  border: 1px solid var(--dove-gray);
+}
